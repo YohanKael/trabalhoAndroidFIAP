@@ -1,0 +1,30 @@
+<resources>
+
+    <string name="app_name">fiapTrabAndroid</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome!</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="Enter">Enter</string>
+    <string name="CreateAccount">Create Account</string>
+    <string name="forgotPassword">Forgot your password?</string>
+    <string name="Register">Register!</string>
+
+
+    <string name="feedback_sobre_vagas">Feedback sobre Vagas</string>
+    <string name="enviar">Enviar Feedback</string>
+    <string name="feedbacks_recentes">Feedbacks Recentes:</string>
+    <string name="Job_list">Lista de Vagas:</string>
+    <string name="btn_filtros">Filtrar Vagas</string>
+
+
+    <string name="titulo_missao">Missão</string>
+    <string name="conteudo_missao">
+        Nossa missão é transformar vidas por meio da inclusão social e profissional, conectando pessoas a oportunidades de emprego. Atuamos como um elo de apoio, para que cada indivíduo alcance seu potencial máximo no mercado de trabalho. Acreditamos que o acesso ao emprego é um direito de todos e trabalhamos incansavelmente para promover a igualdade de oportunidades e o desenvolvimento sustentável para as pessoas que atendemos.
+    </string>
+    <string name="button_vagas">Vagas</string>
+    <string name="button_login">Login</string>
+    <string name="button_feedback">FeedBacks</string>
+
+
+</resources>
