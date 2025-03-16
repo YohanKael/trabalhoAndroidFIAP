@@ -87,7 +87,7 @@ fun FiltroVagas(navController: NavController) {
             }
 
             LazyColumn {
-                items(jobList) { job ->
+                items(filteredJobs) { job ->
                     Card(
                         modifier = Modifier
                             .fillMaxWidth()

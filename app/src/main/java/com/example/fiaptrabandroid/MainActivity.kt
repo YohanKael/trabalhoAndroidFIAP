@@ -36,7 +36,7 @@ class MainActivity : ComponentActivity() {
                         val navController = rememberNavController()
                         NavHost(
                             navController = navController,
-                            startDestination = "login"
+                            startDestination = "FiltroVagas"
                         ) {
                             composable(route = "login") { LoginScreen(navController) }
                             composable(route = "feedback") { FeedbackScreen(navController) }
