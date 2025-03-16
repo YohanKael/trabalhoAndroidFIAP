@@ -91,7 +91,7 @@ fun FiltroVagas(navController: NavController) {
                     Card(
                         modifier = Modifier
                             .fillMaxWidth()
-                            .padding( 10.dp),
+                            .padding(10.dp),
                     ) {
                         Column(
                             modifier = Modifier
